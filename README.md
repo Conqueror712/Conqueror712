@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 -->
 
 [![](https://github-readme-stats.vercel.app/api?username=Conqueror712&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Conqueror712)](https://github.com/stats-organization/github-stats-extended)
 
